@@ -1,0 +1,28 @@
+{
+  "cameras": [
+    {
+      "camera_id": "CAM01",
+      "name": "Camera 1",
+      "source_url": "http://10.8.3.155:8080/",
+      "enabled": true
+    },
+    {
+      "camera_id": "CAM02",
+      "name": "Camera 2",
+      "source_url": "",
+      "enabled": true
+    },
+    {
+      "camera_id": "CAM03",
+      "name": "Camera 3",
+      "source_url": "",
+      "enabled": true
+    },
+    {
+      "camera_id": "CAM04",
+      "name": "Camera 4",
+      "source_url": "",
+      "enabled": true
+    }
+  ]
+}
